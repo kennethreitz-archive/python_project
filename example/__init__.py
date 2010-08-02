@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 
-""" 
+""" Example. 
 """
 
 import cli
